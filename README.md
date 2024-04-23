@@ -1,4 +1,5 @@
 Power BI dashboard and Executive Summary for a pet food supply company
+-----------------------------------------------------------------------
 
 I was asked to uncover insights into the company's overall performance and possible improvement opportunities.
 
